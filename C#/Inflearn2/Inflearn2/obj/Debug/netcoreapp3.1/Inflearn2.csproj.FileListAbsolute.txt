@@ -1,0 +1,13 @@
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.csproj.AssemblyReference.cache
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.AssemblyInfoInputs.cache
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.AssemblyInfo.cs
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.csproj.CoreCompileInputs.cache
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\bin\Debug\netcoreapp3.1\Inflearn2.exe
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\bin\Debug\netcoreapp3.1\Inflearn2.deps.json
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\bin\Debug\netcoreapp3.1\Inflearn2.runtimeconfig.json
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\bin\Debug\netcoreapp3.1\Inflearn2.runtimeconfig.dev.json
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\bin\Debug\netcoreapp3.1\Inflearn2.dll
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\bin\Debug\netcoreapp3.1\Inflearn2.pdb
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.dll
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.pdb
+C:\Programming\Languege\C#\Inflearn2\Inflearn2\obj\Debug\netcoreapp3.1\Inflearn2.genruntimeconfig.cache
