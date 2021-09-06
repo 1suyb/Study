@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inflearn_1", "Inflearn_1\Inflearn_1.csproj", "{C8BF62EF-C378-461F-9457-A7C43D7C9148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BF62EF-C378-461F-9457-A7C43D7C9148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BF62EF-C378-461F-9457-A7C43D7C9148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BF62EF-C378-461F-9457-A7C43D7C9148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BF62EF-C378-461F-9457-A7C43D7C9148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC8CD08-0879-45CE-930C-06B83A1958E7}
+	EndGlobalSection
+EndGlobal
