@@ -11,8 +11,13 @@ using namespace std;
 	 test1.push_back(1);
 	 test1.push_back(2);
 	 test1.push_back(3);
+	 test1.push_back(3);
+	 test1.push_back(3);
+	 test1.push_back(4);
 	 test1.print();
 	 test1.reverse();
+	 test1.print();
+	 test1.unique();
 	 test1.print();
 	 return 0;
 	 

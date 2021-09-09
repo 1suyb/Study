@@ -164,6 +164,7 @@ LinkNode<T>* LinkedList<T>::erase(LinkNode<T>* premove) {
 	premove->previous->next = premove->next;
 	premove->next->previous = premove->previous;
 	delete premove;
+	this->count--;
 	return returnp;
 }
 
@@ -217,5 +218,18 @@ void LinkedList<T>::reverse() {
 }
 
 template<typename T>
-void LinkedList<T>::unique();
+void LinkedList<T>::unique() {
+	LinkNode<T>* node = nullptr;
+	LinkNode<T>* delnode = nullptr;
+	for (node = this->head; node->next != nullptr;) {
+		if (node->data == node->next->data) {
+			delnode = node;
+			node = this->erase(node);
+		}
+		else {
+			node = node->next;
+		}
+
+	}
+}
 
